@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/063af594-3265-46c9-bd4e-0e4da78d2f81
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
