@@ -1,8 +1,7 @@
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
-# Exercise 5 – Demonstrate access contention problems
-when using shared resources in a multitasking system.- 
+# Exercise 5 – Demonstrate access contention problems when using shared resources in a multitasking system.
 ## Deskripsi Projek
 Sistem sederhana berbasis real-time operating system (RTOS) yang menggunakan mikrokontroler STM32 untuk 
 mengontrol beberapa LED (merah, hijau, kuning) dengan tugas-tugas (threads) terpisah. 
