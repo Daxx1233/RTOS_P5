@@ -1,7 +1,10 @@
+
+https://github.com/user-attachments/assets/063af594-3265-46c9-bd4e-0e4da78d2f81
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
-# EXERCISE 5 - 
+# Exercise 5 – Demonstrate access contention problems
+when using shared resources in a multitasking system.- 
 ## Deskripsi Projek
 Sistem sederhana berbasis real-time operating system (RTOS) yang menggunakan mikrokontroler STM32 untuk 
 mengontrol beberapa LED (merah, hijau, kuning) dengan tugas-tugas (threads) terpisah. 
@@ -43,6 +46,13 @@ Sistem ini memanfaatkan FreeRTOS untuk mengatur manajemen tugas (task management
 4. Tugas default tetap idle tanpa fungsionalitas yang spesifik.
 
 # Gambar Hardware
+![Screenshot 2024-11-20 203131](https://github.com/user-attachments/assets/eb7b6251-8eec-4da5-b1a3-adc8dfca2206)
+
 # Video Hardware
-Tampak samping
+
+https://github.com/user-attachments/assets/1f737580-8acd-4859-ae02-5d6fd197427d
+
+
+
+
 
